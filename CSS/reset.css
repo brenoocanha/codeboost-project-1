@@ -22,3 +22,10 @@ button {
   background-color: transparent;
   cursor: pointer;
 }
+
+.container {
+  width: 100%;
+  max-width: 1246px; /* tamanho do GRID + padding (15x2) = (1216 + 30 = 1246) */
+  margin: 0 auto; /* centraliza o GRID */
+  padding: 0px 15px; /* importante para mobile, cria uma "respiro" nas bordas */
+}
