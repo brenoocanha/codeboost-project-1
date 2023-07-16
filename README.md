@@ -2,6 +2,8 @@
 
 Este é o repositório do meu site pessoal responsivo. Foi construído com HTML e CSS, e tem como objetivo treinar a criação de um site seguindo um wireframe, tornando-o responsivo e aplicando boas práticas de organização, como o uso de variáveis CSS.
 
+![Screenshot](img/site-screenshot.jpg)
+
 ## Funcionalidades
 
 - Site responsivo em todos os dispositivos
